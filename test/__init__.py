@@ -1,0 +1,1 @@
+print("Livecode test package")
