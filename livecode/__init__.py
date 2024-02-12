@@ -1,1 +1,0 @@
-print("Livecode package")
